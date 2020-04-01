@@ -1,8 +1,8 @@
 # The Data Science Workshop
-[![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Data-Science-Workshop.svg)](https://github.com/PacktWorkshops/The-Data-Science-Workshop/issues)
-[![GitHub forks](https://img.shields.io/github/forks/PacktWorkshops/The-Data-Science-Workshop.svg)](https://github.com/PacktWorkshops/The-Data-Science-Workshop/network)
-[![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/The-Data-Science-Workshop.svg)](https://github.com/PacktWorkshops/The-Data-Science-Workshop/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/The-Data-Science-Workshop/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/khieunguyen/The-Data-Science-Workshop.svg)](https://github.com/khieunguyen/The-Data-Science-Workshop/issues)
+[![GitHub forks](https://img.shields.io/github/forks/khieunguyen/The-Data-Science-Workshop.svg)](https://github.com/khieunguyen/The-Data-Science-Workshop/network)
+[![GitHub stars](https://img.shields.io/github/stars/khieunguyen/The-Data-Science-Workshop.svg)](https://github.com/khieunguyen/The-Data-Science-Workshop/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/khieunguyen/The-Data-Science-Workshop/pulls)
 
 This is the repository for [The Data Science Workshop](https://courses.packtpub.com/courses/data-science?utm_source=github&utm_medium=repository&utm_campaign=9781838981266&utm_term=Data%20Science&utm_content=The%20Data%20Science%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
